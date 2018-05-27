@@ -14,10 +14,14 @@
 @media only screen and (max-width: 425px){
 	#body{
 		
-		background-image: url(https://ghlibrary.000webhostapp.com/libertea_mobilebg.png) no-repeat center;
+		background-image: url(https://ghlibrary.000webhostapp.com/libertea_mobilebg.png);
 		
 		height: 100%;
 		width: 100%;
+		background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	}
 }
 
