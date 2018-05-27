@@ -11,12 +11,13 @@
     background-size: cover;
 }
 
-@media only screen and (max-width 425px){
+@media only screen and (max-width: 425px){
 	#body{
 		
 		background:none !important;
 	}
 }
+
 
 #thead {
 	
@@ -27,5 +28,5 @@
 table tr td{
 	
 	background-color: rgba(0,0,0,0.00)!important;
-}	
+}
 	
